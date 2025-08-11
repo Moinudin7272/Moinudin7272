@@ -1,11 +1,11 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Moin — A Pakistani AI & Machine Learning Enthusiast 🤖:
+# Hello World!, I'm Moin, a Pakistani AI & Machine Learning Enthusiast 🤖:
 🧠 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning** <br>
-📊 Experienced in **Neural Networks (ANN, CNN, RNN, LSTM)** <br>
-🏆 Active on **Kaggle** & using **Roboflow** for dataset management <br>
-☁️ Building, training & deploying models on **Google Colab** and cloud platforms <br>
-💻 Working on **Computer Vision, NLP, and Generative AI** projects
+📊 Skilled in **Neural Networks (ANN, CNN, RNN, LSTM)** <br>
+🏆 Active contributor on **Kaggle** & **Roboflow** for AI datasets <br>
+☁️ Building and deploying AI models on **Google Colab** & cloud platforms <br>
+💻 Working on **Computer Vision, NLP, and Generative AI** applications
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -29,7 +29,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
