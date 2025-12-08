@@ -1,12 +1,14 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Moinudin7272/job-apply-app/main/banner_github.png" width="100%" />
 
-# Hello World!, I'm Moin, a Pakistani AI & Machine Learning Enthusiast 🤖:
+
+# Hi, I'm Moin — Full-Stack Web Developer & AI/ML Enthusiast 🤖
+
 🧠 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning** <br>
+💻 Experienced in **Full-Stack Web Development** using **React, NestJS, PostgreSQL, TypeScript, and JavaScript** <br>
 📊 Skilled in **Neural Networks (ANN, CNN, RNN, LSTM)** <br>
 🏆 Active contributor on **Kaggle** & **Roboflow** for AI datasets <br>
-☁️ Building and deploying AI models on **Google Colab** & cloud platforms <br>
-💻 Working on **Computer Vision, NLP, and Generative AI** applications
-
+☁️ Building and deploying AI & Web applications on **Google Colab** & cloud platforms <br>
+💡 Working on **Computer Vision, NLP, Generative AI**, and **Full-Stack Web Projects**
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -27,6 +29,15 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+
+# 💻 Full Stack:
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
