@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Moinudin7272/job-apply-app/main/banner_github.png" width="100%" />
+
 
 
 # Hi, I'm Moin — Full-Stack Web Developer & AI/ML Enthusiast 🤖
